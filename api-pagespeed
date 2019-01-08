@@ -1,0 +1,21 @@
+um den ulropener mit google pagespeed zu nutzen muss man die api mit dem tool verbinden, 
+den api code bekommt man so: 
+- zuerst loggt man sich bei google ein
+- dann geht man auf diese url: https://console.developers.google.com/cloud-resource-manager
+- dann erstellt man ein neues projekt
+- Man gibt einen Projektnamen an
+- klickt auf erstellen
+- rechts erscheint eine Benachrichtigung
+- da auf den jeweiligen Projektnamen klicken
+- dann in der mitte auf API Übersicht klicken
+- rechts auf Alle ansehen klicken, dann öffnen sich alle tools von google
+- man kann in das suchfeld oben, pagespeed eingeben
+- dann auf google pagespeed klicken
+- dann auf aktivieren klicken
+- dann auf Anmeldedaten erstellen klicken
+- dann im Fenster Google Pagespeed auswählen
+- dann auf den Button Welche .... benötige
+- API Code kopieren
+- und dann in urlopener beim auswählen von google pagespeed oder anderen google tools eingeben
+
+
